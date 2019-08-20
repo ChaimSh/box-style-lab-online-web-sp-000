@@ -5,13 +5,10 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
+  background: url("../images/white-wood.jpg") no-repeat fixed;
+  background-size: cover;
 }
 
-body {
-  background: url('white-wood.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background: linear-gradient(to right, #FFF, #000)
 
 }
 
