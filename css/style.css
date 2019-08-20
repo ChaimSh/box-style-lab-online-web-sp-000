@@ -52,9 +52,16 @@ h4.amiable {
     );
 }
 
+h4.amiable:hover {
+  background: linear-gradient(
+    to right,
+    #66ee88,
+    #118833
+  );
+}
+
 .indifferent {
   border: 1px solid #dddd22;
-  box-sizing: border-box;
   box-shadow:  -1px 1px #baba45, -2px 2px #baba45, -3px 3px #baba45, -4px 4px #baba45, -5px 5px #baba45;
   background-color: #dddd22;
 }
