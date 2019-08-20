@@ -25,6 +25,10 @@ img {
   border: 2px solid #333
 }
 
+img:hover {
+  transition-duration: 1s;
+  transform: scale(1.05);
+}
 
 h4 {
   width: fit-content;
